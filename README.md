@@ -1,7 +1,4 @@
 ## Hi there, xxxtacy is here👋
-<h1 align="center">
-  <marquee>👋 Welcome to my profile </marquee>
-</h1>
 
 <!--
 **xxxtacy/xxxtacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
