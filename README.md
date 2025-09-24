@@ -2,7 +2,12 @@
   <marquee>Hi there, xxxtacy is here!</marquee>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=fefae0&center=true&vCenter=true&lines=Halo+semua!;Selamat+datang+di+profil+saya;Saya+suka+ngoding+💻)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&lines=Halo+semua!;Selamat+datang+di+profil+saya;Saya+suka+ngoding+💻" alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 <!--
