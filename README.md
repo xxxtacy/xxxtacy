@@ -1,10 +1,10 @@
 <h1 align="center">
-  <marquee>Hi there, xxxtacy is here!</marquee>
+  <marquee color="4cc9f0">Hi there, xxxtacy is here!</marquee>
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&lines=Hi+everyone!;Welcome+to+my+profile;Lets+learn+together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=ffff&center=true&vCenter=true&lines=Hi+everyone!;Welcome+to+my+profile;Lets+learn+together" alt="Typing SVG" />
   </a>
 </p>
 
