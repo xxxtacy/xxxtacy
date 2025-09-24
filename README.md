@@ -1,4 +1,7 @@
 ## Hi there, xxxtacy is here👋
+<h3 align="center">
+  ✨ <span style="color:red">Teks ini berkedip!</span> ✨
+</h3>
 
 <!--
 **xxxtacy/xxxtacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
