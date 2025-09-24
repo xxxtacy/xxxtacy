@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&lines=Halo+semua!;Selamat+datang+di+profil+saya;Saya+suka+ngoding+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&lines=Hi+everyone!;Welcome+to+my+profile;Lets+learn+together" alt="Typing SVG" />
   </a>
 </p>
 
