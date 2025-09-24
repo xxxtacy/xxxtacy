@@ -1,7 +1,6 @@
 ## Hi there, xxxtacy is here👋
-<h3 align="center">
-  ✨ <span style="color:red">Teks ini berkedip!</span> ✨
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&lines=Halo+semua!;Selamat+datang+di+profil+saya;Saya+suka+ngoding+💻)](https://git.io/typing-svg)
+
 
 <!--
 **xxxtacy/xxxtacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
